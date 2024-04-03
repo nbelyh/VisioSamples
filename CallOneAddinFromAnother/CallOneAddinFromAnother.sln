@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VisioAddIn1", "VisioAddIn1\VisioAddIn1.vbproj", "{D631894E-E8FE-402C-98B6-AE2F56FBD57F}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VisioAddIn2", "VisioAddIn2\VisioAddIn2.vbproj", "{AD269614-1F96-4A3B-AE7A-2C68366336F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D631894E-E8FE-402C-98B6-AE2F56FBD57F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D631894E-E8FE-402C-98B6-AE2F56FBD57F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D631894E-E8FE-402C-98B6-AE2F56FBD57F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D631894E-E8FE-402C-98B6-AE2F56FBD57F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD269614-1F96-4A3B-AE7A-2C68366336F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD269614-1F96-4A3B-AE7A-2C68366336F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD269614-1F96-4A3B-AE7A-2C68366336F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD269614-1F96-4A3B-AE7A-2C68366336F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EFCE0B4-60CC-49CB-B036-DE37B1673A54}
+	EndGlobalSection
+EndGlobal
